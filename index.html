@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cripto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <a href="#"><h1>Criptmoedas</h1></a>
+    </header>
+    <main class="main">
+        <div class="main-input">
+            <label for="">Digite uma moeda:</label>
+            <input type="text" id="procurar" onchange={getApi()}>
+        </div>
+        <div id="cripto"></div>
+    </main>
+    <footer class="footer">
+        <ul>
+            <li><a href="http://www.github.com/diegosmp" target="_blank">Github</a></li>
+            <li><a href="http://www.linkedin.com/in/diegosmp" target="_blank">LinkedIn</a></li>
+            <li><a href="http://www.instagram.com/diegosmp" target="_blank">Instagram</a></li>
+        </ul>
+    </footer>
+    <script src="/index.js"></script>
+</body>
+</html>

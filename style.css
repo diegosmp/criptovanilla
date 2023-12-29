@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --bg-primary: #292929;
+    --header-bg: #1d1c1c;
+    --color-text: #eeeeee;
+    --link-color: #ebebeb ;
+    --link-hover: #a591ff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--color-text);
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: var(--link-color);
+    transition: ease-in-out 0.3s;
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+.header {
+    height: 5rem;
+    width: 100%;
+    background-color: var(--header-bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    margin: 2rem auto;
+    height: 100%;
+    width: 80vw;
+    border-radius: 10px;
+    background-color: var(--header-bg);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-input {
+    width: 100%;
+    padding: 2rem 4rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.main-input input {
+    width: 30%;
+    height: 3rem;
+    padding: 0 1rem;
+    background: #242424;
+    color: var(--link-hover);
+    border: none;
+    border-radius: 16px;
+    font-size: 1.5rem;
+}
+
+input:focus {
+    border: 2px solid #5f33ff;
+    outline: #8d50ff solid 1px;
+}
+
+.cryptoContainer {
+    width: 70%;
+    height: 5rem;
+}
+
+.cryptoContainer img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.cryptoContainer p {
+    font-size: .8rem;
+}
+
+.coinContainer {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.footer {
+    background-color: var(--header-bg);
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
