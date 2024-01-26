@@ -3,140 +3,140 @@
     {
       "id": 1,
       "coin":  "Bitcoin",
-      "price": "$43,793.12",
+      "price": 43793.12,
       "image": "https://assets.coingecko.com/asset_platforms/images/1/thumb/bnb_smart_chain.png?1694050220",
       "description": "A Binance Smart Chain (BSC), blockchain de primeira camada da exchange de criptomoedas Binance, anunciou uma grande reformulação da marca e uma investida em escalabilidade."
   },
   {
       "id": 2,
       "coin":  "Wrapped Bitcoin",
-      "price": "$43,697.75",
+      "price": 43697.75,
       "image": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857",
       "description": "Wrapped Bitcoin (WBTC), ou “Bitcoin embrulhada”, é uma versão tokenizada do bitcoin na Ethereum. Em resumo, ele opera como se fosse uma ponte entre o Bitcoin e o Ethereum, permitindo que os usuários do Bitcoin tenham acesso aos aplicativos de finanças descentralizados e que os aplicativos do Ethereum tenham liquidez adicional."
   },
   {
       "id": 3,
       "coin":  "Rocket Pool ETH",
-      "price": "$2,507.42",
+      "price": 2507.42,
       "image": "https://assets.coingecko.com/coins/images/20764/standard/reth.png?1696520159",
       "description": "Rocket Pool é o protocolo de piquetagem descentralizado líder para Ethereum"
   },
   {
       "id": 4,
       "coin":  "Ethereum",
-      "price": "$2,285.72",
+      "price": 2285.72,
       "image": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
       "description": "Ethereum é uma plataforma que permite a programação de aplicativos descentralizados, contratos inteligentes e transações da criptomoeda Ether e vários tokens."
   },
   {
       "id": 5,
       "coin":  "Lido Staked Ether",
-      "price": "$2,293.52",
+      "price": 2293.52,
       "image": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png?1696513206",
       "description": "Lido é o nome de uma família de ferramentas de software peer-to-system de código aberto implantadas e funcionando nas redes blockchain Ethereum, Solana e Polygon. O software permite que os usuários criem tokens utilitários transferíveis, que recebem recompensas vinculadas às atividades de validação relacionadas à gravação de dados no blockchain, enquanto os tokens podem ser usados ​​em outras atividades na cadeia."
   },
   {
       "id": 6,
       "coin":  "Frax Ether",
-      "price": "$2,288.10",
+      "price": 2288.10,
       "image": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png?1696527284",
       "description": "Frax Ether is a liquid ETH staking derivative and stablecoin system designed to uniquely leverage the Frax Finance ecosystem to maximize staking yield and smoothen the Ethereum staking process for a simplified, secure, and DeFi-native way to earn interest on ETH. "
   },
   {
       "id": 7,
       "coin":  "Maker",
-      "price": "$1,375.96",
+      "price": 1375.96,
       "image": "https://assets.coingecko.com/coins/images/1364/standard/Mark_Maker.png?1696502423",
       "description": "Maker (MKR) é o token de utilidade e governança do MakerDAO, organização que gerencia de maneira descentralizada o Maker Protocol. Através dos incentivos do protocolo, o MKR é uma forma de investir e participar do ecossistema do projeto."
   },
   {
       "id": 8,
       "coin":  "BNB",
-      "price": "$269.99",
+      "price": 269.99,
       "image": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970",
       "description": "A Binance Coin (BNB) é mais uma criptomoeda lançada para uso dentro de uma exchange, assim como o Huobi Token e a Unus Sed Leo. Foi lançada em agosto de 2017 por uma das maiores exchanges (corretora de criptomoedas) do mundo, a Binance."
   },
   {
       "id": 9,
       "coin":  "Monero",
-      "price": "$176.99",
+      "price": 176.99,
       "image": "https://assets.coingecko.com/coins/images/69/standard/monero_logo.png?1696501460",
       "description": "O grande apelo do Monero (XMR) é o fato dele ser anônimo. Diferente do Bitcoin, os detalhes de cada transação com a moeda, incluindo o remetente, o destinatário e o tamanho, são gravados em um sistema público, mas são ofuscados para torná-los irrastreáveis."
   },
   {
       "id": 10,
       "coin":  "Quant",
-      "price": "$115.05",
+      "price": 115.05,
       "image": "https://assets.coingecko.com/coins/images/3370/standard/5ZOu7brX_400x400.jpg?1696504070",
       "description": "Com uma visão ousada para o futuro das blockchains, a Quant Network é uma plataforma de interconexão de blockchains que permite a comunicação segura entre diferentes redes existentes. A ideia é facilitar o acesso a diversas redes que hoje operam de forma isolada."
   },
   {
       "id": 11,
       "coin":  "Solana",
-      "price": "$97.49",
+      "price": 97.49,
       "image": "https://assets.coingecko.com/coins/images/4128/standard/solana.png?1696504756",
       "description": "Utiliza a tecnologia blockchain, além do algoritmo SHA256, o mesmo do Bitcoin, garantindo a segurança da rede. O segmento de aplicações descentralizadas é um dos que mais cresce em criptomoedas. Rede projetada para processar até 50.000 transações por segundo, capaz de executar smart contracts."
   },
   {
       "id": 12,
       "coin":  "MultiversX",
-      "price": "$63.20",
+      "price": 63.20,
       "image": "https://assets.coingecko.com/coins/images/12335/standard/egld-token-logo.png?1696512162",
       "description": "MultiversX é uma rede blockchain altamente escalável, segura e descentralizada , criada para permitir aplicações radicalmente novas, para usuários, empresas, sociedade e a nova fronteira do metaverso."
   },
   {
       "id": 13,
       "coin":  "Chainlink",
-      "price": "$15.78",
+      "price": 15.78,
       "image": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
       "description": "ChainLink (LINK) é uma plataforma de blockchain que busca facilitar o uso dos contratos inteligentes entre diferentes plataformas. Criado por Sergey Nazarov em 2017, o sistema está construindo um protocolo para facilitar o melhor destes contratos para aplicativos do mundo real."
   },
   {
       "id": 14,
       "coin":  "NEO",
-      "price": "$14.06",
+      "price": 14.06,
       "image": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
       "description": "Neo é uma plataforma de aplicativos e criptomoeda baseada em blockchain usada para executar contratos inteligentes e aplicativos descentralizados."
   },
   {
       "id": 15,
       "coin":  "Axie Infinity",
-      "price": "$7.49",
+      "price": 7.49,
       "image": "https://assets.coingecko.com/coins/images/13029/standard/axie_infinity_logo.png?1696512817",
       "description": "Axie Infinity Shards (AXS) é um token de utilidade, também chamados de utility tokens, que foi inicialmente desenvolvido com o intuito de funcionar como unidade monetária em um jogo virtual chamado Axie Infinity, criado por uma desenvolvedora de jogos."
   },
   {
       "id": 16,
       "coin":  "Synthetix Network",
-      "price": "$4.09",
+      "price": 4.09,
       "image": "https://assets.coingecko.com/coins/images/3406/standard/SNX.png?1696504103",
       "description": "Synthetix Network é um aplicativo de finanças descentralizadas (DeFi) que permite a emissão de tokens sintéticos, ativos criados na plataforma que “replicam” o valor de outro item, seja ele físico ou digital."
   },
   {
       "id": 17,
       "coin":  "Immutable",
-      "price": "$2.41",
+      "price": 2.41,
       "image": "https://assets.coingecko.com/coins/images/17233/standard/immutableX-symbol-BLK-RGB.png?1696516787",
       "description": "O IMX é um token Ethereum que movimenta o Immutable X, solução de escalabilidade de NFTs que visa permitir transações quase instantâneas e com taxas baixas. O IMX pode ser usado para fazer staking no Immutable X, votar no futuro do protocolo e pagar por taxas de transação."
   },
   {
       "id": 18,
       "coin":  "Arbitrum",
-      "price": "$1.37",
+      "price": 1.37,
       "image": "https://assets.coingecko.com/coins/images/16547/standard/photo_2023-03-29_21.47.00.jpeg?1696516109",
       "description": "Arbitrum desenvolve soluções de escalabilidade, segurança e para criação de projetos descentralizados. A rede Arbitrum foi desenvolvida para solucionar um dos principais problemas existentes na blockchain Ethereum: a falta de escalabilidade."
   },
   {
       "id": 19,
       "coin":  "Flow",
-      "price": "$0.900002",
+      "price": 0.900002,
       "image": "https://assets.coingecko.com/coins/images/13446/standard/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210",
       "description": "A Flow é uma rede Blockchain criada entre 2019 e 2020 pela Dapper Labs, com apoio de outras instituições. O projeto conta atualmente com o suporte de várias grandes empresas, como NFL, NBA, Ticketmaster e Mattel. Essencialmente, a rede é uma blockchain de camada 1. Isso significa que ela possui um sistema próprio, e não é executada em protocolos como o Ethereum (ETH). Dessa forma, a criptomoeda FLOW é o token nativo da blockchain Flow, e é utilizado para pagar pelas taxas de utilização da rede."
   },
   {
       "id": 20,
       "coin":  "Terra Luna Classic",
-      "price": "$0.00016433",
+      "price": 0.00016433,
       "image": "https://assets.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486",
       "description": "O LUNC é o ativo digital nativo da rede Terra Classic e é usado para manter a estabilidade de preços das stablecoins em execução nesta rede."
   }
